@@ -1,0 +1,7 @@
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Paramètres locaux
+.env
